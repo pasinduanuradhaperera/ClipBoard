@@ -59,7 +59,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments  
 
 - Inspired by Windows' default clipboard manager (Win+V).  
-- Built with ❤️ by ![@pasinduanuradhaperera](https://github.com/pasinduanuradhaperera).  
+- Built with ❤️ by ![pasinduanuradhaperera](https://github.com/pasinduanuradhaperera).  
 
 ---
 
