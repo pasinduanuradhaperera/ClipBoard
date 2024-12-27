@@ -1,4 +1,4 @@
-# Clipboard for macOS  
+# Clipboard for macOS ( Works in Linux and Windows Also )
 
 A Python-based clipboard manager for macOS that mimics the functionality of the default clipboard manager in Windows (Win+V). This tool allows users to keep track of clipboard history, set history size limits, and manage copied items efficiently.  
 
